@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: zzz
+Build-Jdk: 12.0.1
+Implementation-Title: nboot001Security
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.zerock
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/nboot001Security
+Created-By: Maven Integration for Eclipse
+
